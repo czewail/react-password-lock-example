@@ -9,7 +9,7 @@ react结合了css的transform实现了连线的变化
 
 *临时敲的代码，未作深入优化*
 
-![动态图][#xample.gif]
+![动态图](#xample.gif)
 
 
 
