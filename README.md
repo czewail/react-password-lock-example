@@ -7,6 +7,7 @@ react结合了css的transform实现了连线的变化
 
 用creat-react-app构建
 
+*临时敲的代码，未深入优化*
 
 使用:
 
