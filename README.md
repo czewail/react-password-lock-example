@@ -1,13 +1,12 @@
 # React 九宫格密码锁例子
-使用css实现，只是学习使用，用canvas可以很简单的实现该例子，但这里没有使用canvas
 
-布局只是简单的使用了flex
+学习react过程中做的一个小例子（用canvars这个例子实现非常简单，这里只是用来学习react）
 
-react结合了css的transform实现了连线的变化
+react结合了css的transform实现了连线的动态变化， 布局只是简单的使用了flex
 
-用creat-react-app构建
+用creat-react-app构建 
 
-*临时敲的代码，未作深入优化*
+**代码比较随意😬😬😬**
 
 
 <img width="200" src="example.gif" />
